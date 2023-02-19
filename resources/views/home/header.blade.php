@@ -53,7 +53,7 @@
 
                 <li class="nav-item {{Request::is('contact')?'active':'';}}">
                     <a class="nav-link" href="{{url('contact')}}">
-                        <i class="fas fa-phone"></i> Contact
+                     Contact
                     </a>
                 </li>
 
